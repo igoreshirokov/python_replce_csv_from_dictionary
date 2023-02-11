@@ -1,4 +1,4 @@
-# Replace CSV by dictionary
+# Replace CSV from dictionary
 This script performs a line-by-line search and replace when a dictionary key matches.\
 \
 ## Parameters:\
